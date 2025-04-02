@@ -1,0 +1,3 @@
+# Node.js関連の不要ファイル
+node_modules/
+package-lock.json
